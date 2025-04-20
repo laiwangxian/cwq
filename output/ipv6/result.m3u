@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🕘️更新时间",2025-04-20 07:30:27
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🕘️更新时间",2025-04-20 19:28:56
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🇹🇼台湾频道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
@@ -251,6 +251,8 @@ http://go1.bkpcp.top/tl/null-3
 http://j.s.bkpcp.top/js/qxjdt
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🇭🇰全球频道",HBO
 http://j.s.bkpcp.top/js/hbohd1
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🇭🇰全球频道",HBO
+http://cdn9.163189.xyz/smt1.1.php?id=Hbo
 #EXTINF:-1 tvg-name="HBO原创" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO原创.png" group-title="🇭🇰全球频道",HBO原创
 http://j.s.bkpcp.top/js/hboyc1
 #EXTINF:-1 tvg-name="HBO强档" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO强档.png" group-title="🇭🇰全球频道",HBO强档
@@ -4018,7 +4020,7 @@ http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
 https://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
-http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
+http://php.jdshipin.com:8880/chudian.php?id=gdzj
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
@@ -5547,6 +5549,8 @@ http://j.s.bkpcp.top/jj/lhjd
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🎬电影频道",HBO
 http://j.s.bkpcp.top/js/hbohd1
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🎬电影频道",HBO
+http://cdn9.163189.xyz/smt1.1.php?id=Hbo
 #EXTINF:-1 tvg-name="HBO原创" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO原创.png" group-title="🎬电影频道",HBO原创
 http://j.s.bkpcp.top/js/hboyc1
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台.png" group-title="🎬电影频道",美亚电影台
@@ -6149,6 +6153,8 @@ http://j.s.bkpcp.top/js/ymdy
 http://j.s.bkpcp.top/js/hlwdy1
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🏛经典剧场",HBO
 http://j.s.bkpcp.top/js/hbohd1
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="🏛经典剧场",HBO
+http://cdn9.163189.xyz/smt1.1.php?id=Hbo
 #EXTINF:-1 tvg-name="HBO原创" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO原创.png" group-title="🏛经典剧场",HBO原创
 http://j.s.bkpcp.top/js/hboyc1
 #EXTINF:-1 tvg-name="吃奶滴虫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吃奶滴虫.png" group-title="🏛经典剧场",吃奶滴虫

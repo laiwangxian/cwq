@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/laiwangxian/cwq/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🕘️更新时间",2025-04-30 07:08:47
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🕘️更新时间",2025-04-30 19:09:51
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🇹🇼台湾频道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
@@ -439,6 +439,8 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn$订阅源
 http://z.b.bkpcp.top/m.php?id=hjfct$订阅源
 #EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄金翡翠台.png" group-title="🇭🇰全球频道",黄金翡翠台
 http://go1.bkpcp.top/tl/null-9$订阅源
+#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄金翡翠台.png" group-title="🇭🇰全球频道",黄金翡翠台
+http://tl.061833.xyz/tl/null-2
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPLUS.png" group-title="🇭🇰全球频道",TVBPLUS
 http://cdn.163189.xyz/live/tvbp/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPLUS.png" group-title="🇭🇰全球频道",TVBPLUS
@@ -4156,7 +4158,7 @@ https://cdn2.163189.xyz/live/gdzj/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
-http://php.jdshipin.com:8880/chudian.php?id=gdzj
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
@@ -4633,6 +4635,8 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻综合.png" group-title="☘️上海频道",新闻综合
 https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1745774515&key=446cbb99163518411dacc8c71da7cec7
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻综合.png" group-title="☘️上海频道",新闻综合
+http://z.b.bkpcp.top/m.php?id=shxw
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-04 19:01:46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
+2025-05-05 07:03:38,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
 
 🇹🇼台湾频道,#genre#
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
@@ -316,6 +316,7 @@ CINE_MAX,http://j.s.bkpcp.top/jj/cinemax$订阅源
 Moviesnow,http://j.s.bkpcp.top/jj/moviesnow$订阅源
 StarMovies,http://j.s.bkpcp.top/jj/starmovies$订阅源
 Nick Jr,http://j.s.bkpcp.top/jj/nickjr$订阅源
+Nick Jr,http://tl.061833.xyz/tl/nickjr
 Nickelodeon,http://go1.bkpcp.top/tl/nickelodeon$订阅源
 Nickelodeon,http://j.s.bkpcp.top/jj/nickelodeon$订阅源
 Nickelodeon,http://tl.061833.xyz/tl/nickelodeon
@@ -2114,7 +2115,7 @@ CETV4,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 广东珠江,https://cdn2.163189.xyz/live/gdzj/stream.m3u8$订阅源
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
+广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$订阅源

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-06 19:08:29,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
+2025-05-07 07:15:20,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
 
 🇹🇼台湾频道,#genre#
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
@@ -2118,7 +2118,8 @@ CETV4,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 广东珠江,https://cdn2.163189.xyz/live/gdzj/stream.m3u8$订阅源
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
+广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+广东珠江,http://k.061899.xyz/k.php?id=gdzj
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$订阅源
@@ -2126,6 +2127,7 @@ CETV4,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
+广东体育,http://k.061899.xyz/k.php?id=gdty
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms$订阅源
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws$订阅源
@@ -3205,6 +3207,7 @@ CCTV-16奥林匹克,http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
+广东体育,http://k.061899.xyz/k.php?id=gdty
 北京体育休闲,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND$订阅源
 北京体育休闲,http://nas.suntao.online:35455/bptv/10000100000000050000000003870779.m3u8$订阅源
 北京体育休闲,http://yc.myds.me:35455/bptv/10000100000000050000000003870779.m3u8$订阅源

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/laiwangxian/cwq/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🕘️更新时间",2025-05-09 18:56:24
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🕘️更新时间",2025-05-10 06:52:04
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="🇹🇼台湾频道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$订阅源
@@ -4218,7 +4218,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
 http://k.061899.xyz/k.php?id=gdzj
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
-http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
+http://php.jdshipin.com:8880/chudian.php?id=gdzj
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育

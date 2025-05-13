@@ -267,7 +267,7 @@ CNN
 CNA亚洲新闻
 📺央视频道,#genre#
 CCTV-1综合
-CCTV-2经济
+CCTV-2财经
 CCTV-3综艺
 CCTV-4国际
 CCTV-4欧洲
@@ -280,15 +280,15 @@ CCTV-8电视
 CCTV-9纪录
 CCTV-10科教
 CCTV-11戏曲
-CCTV-12社会与法
+CCTV-12社法
 CCTV-13新闻
 CCTV-14少儿
 CCTV-15音乐
 CCTV-16奥匹
 CCTV-16奥匹4K
-CCTV-17农业
-CGTN纪录
+CCTV-17农村
 CGTN
+CGTN纪录
 CGTN俄语
 CGTN阿语
 CGTN法语

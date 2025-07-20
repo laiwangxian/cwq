@@ -38,7 +38,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/
 https://live.iptv365.org/live.txt
 http://l.gmbbk.com/upload/35143514.txt
 https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt
-http://8.138.7.223/51.txt
+http://8.138.7.223/51.php
 https://gitee.com/tv2785/kdsb/raw/master/10086
 http://111.67.193.2:89/ipv6.txt
 

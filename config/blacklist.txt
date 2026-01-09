@@ -1,4 +1,34 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
-bxtv.3a.ink
+epg.pw
+skype.serv00.net
+iptv.yjxfz.com
+live-hls-web-ajb.getaj.net
+live.goodiptv.club
+hc73k3dhwo5gfkt.wcetv.com
+stream1.freetv.fun
+zw9999.cnstream.top
+zsntlqj.xicp.net
+ku9.3n.cc
+cdn.iptv8k.top
+fmbox.cc/公众号玉玉软件库
+150.158.112.123
+zb.xmzb.xyz/123.php
+tvbox6.icu/tv/migu.php
+aktv_stream1.m16tv.cfd
+37.27.111.214:8080
+event.pull.hebtv.com
+php.jdshipin.com/TVOD
+zb.xmzb.xyz/888.php
+tv.iill.top/litv
+aktv-stream.m16tv.cfd
+aktv_stream.m16tv.cfd
+raw.githubusercontent.com
+live_bin.m16tv.cfd
+dbiptv.sn.chinamobile.com
+tv.iill.top
+cdn.iptv8k.top
+j.s.bkpcp.top
+z.b.bkpcp.top
+8.138.7.223/tv/

@@ -1,5 +1,17 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt									
+http://rihou.cc:555/gggg.nzk
+http://117.72.68.25:9230/latest.txt
+https://dimaston.github.io/live.m3u
+https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt
+http://8.138.7.223/fujian.txt
+
 
 
 
